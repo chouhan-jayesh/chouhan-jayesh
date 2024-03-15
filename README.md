@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chouhan-jayesh&label=Profile%20views&color=0e75b6&style=flat" alt="chouhan-jayesh" /> </p>
 
-- 🌱 I’m currently learning **Gen Ai and financial models**
-
+- 🌱 I’m currently learning
+    -> **Gen AI**
+    -> **Financial Models**
+    -> **Three.js**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jayesh_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayesh_xyz" height="30" width="40" /></a>
