@@ -1,4 +1,4 @@
-<h1 align="center">Hello devs👋/h1>
+<h1 align="center">Hello devs👋</h1>
 <h3 align="center">Hi, I am jayesh from India. I do Fullstack development using modern frameworks. I enjoy the process of coding and debugging. Apart from Fullstack, I also have interest in financial markets💹 and trading💰, cybersecurity stuff👨‍💻, Humanoids🤖 and love to learn about the working of space engines and rockets🚀🌌,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chouhan-jayesh&label=Profile%20views&color=0e75b6&style=flat" alt="chouhan-jayesh" /> </p>
