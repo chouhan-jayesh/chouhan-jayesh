@@ -20,7 +20,7 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 ### Next Up:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=threejs,golang&perline=7" />
   </a></br>
 
 &nbsp;
@@ -28,7 +28,7 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 
 | Project | Description | Tech-Stack |
 | --- | --- | --- |
-| [Reddit-clone](https://github.com/jayesh-xyz/reddit-clone) | A Fullstack Nextjs reddit clone application. |  NextJs, React, TypeScript, SQL, Supabase, StepZen, GraphQL, Tailwind  |
+| [Course Website](https://github.com/chouhan-jayesh/course-selling-website) | A React based fullstack Course selling website. |  React, MongoDb, Express, Tailwind, NodeJs |
 
 
 
