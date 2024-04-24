@@ -35,12 +35,14 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 
 
 ### Github Status:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chouhan-jayesh&layout=compact&theme=transparent )](https://github.com/chouhan-jayesh/github-readme-stats)
+<div align="Ccenter">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chouhan-jayesh&layout=compact&theme=transparent&center)](https://github.com/chouhan-jayesh/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chouhan-jayesh&show_icons=true&theme=transparent) 
 
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chouhan-jayesh&theme=transparent )](https://git.io/streak-stats)
+</div>
 
 
 
