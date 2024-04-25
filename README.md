@@ -20,7 +20,7 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 ### Next Up:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,golang&perline=7" />
+    <img src="https://skillicons.dev/icons?i=threejs,solidity,golang&perline=7" />
   </a></br>
 
 &nbsp;
