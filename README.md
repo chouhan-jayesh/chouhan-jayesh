@@ -25,7 +25,7 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 
 &nbsp;
 
-
+### MERN Projects
 | Project | Description | Tech-Stack |
 | --- | --- | --- |
 | [BookStore](https://github.com/chouhan-jayesh/bookstore) | A Bookstore with CRUD operations |  React, MongoDb, Express, Tailwind, NodeJs |
