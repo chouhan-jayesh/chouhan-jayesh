@@ -29,7 +29,7 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 | Project | Description | Tech-Stack |
 | --- | --- | --- |
 | [BookStore](https://github.com/chouhan-jayesh/bookstore) | A Bookstore with CRUD operations |  React, MongoDb, Express, Tailwind, NodeJs |
-| [Course Website](https://github.com/chouhan-jayesh/course-selling-website) | A React based fullstack Course selling website. |  React, MongoDb, Express, Tailwind, NodeJs |
+| [Course Website](https://github.com/chouhan-jayesh/course-selling-website) | A React based fullstack Course selling website. |  React, vite , JWT, MongoDb, Tailwind, Material-UI, Express, NodeJs |
 | [Reddit-clone](https://github.com/chouhan-jayesh/reddit) | A Fullstack Nextjs reddit clone application. |  NextJs, React, TypeScript, SQL, Supabase, StepZen, GraphQL, Tailwind  |
 
 
