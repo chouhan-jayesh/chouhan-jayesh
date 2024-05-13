@@ -12,7 +12,7 @@ I'm a Fullstack Developer based in India, proficient in modern frameworks for cr
 ### Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,nextjs,figma,react,nodejs,redux,html,css,express,mongodb,aws,gcp,git,github,bitbucket,postgres,postman,vscode,md,notion&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,nextjs,figma,react,nodejs,redux,html,css,express,mongodb,git,github,bitbucket,postgres,postman,vscode,md,notion&theme=dark&perline=6"/>
   </a>
 
 </p>
